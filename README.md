@@ -277,13 +277,6 @@ interface Place {
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-## 👨‍💻 Author
-
-**Your Name**
-- Portfolio: [your-portfolio.com]
-- LinkedIn: [your-linkedin]
-- GitHub: [your-github]
-
 ---
 
 *Built with ❤️ for travelers and explorers worldwide.*
